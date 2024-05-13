@@ -1,4 +1,4 @@
-# loja do Simpsons
+# Loja do Simpsons
 Trabalho de IW2 - Desenvolvendo CRUD (Create Read Uptade Delete - Criação Ler Atualizar Deletar)
 Línguagem SQL (Structured Query Language - Linguagem de Consulta Estruturada por IBM)
 Equivalente SQL para CRUD -  Comandos:
